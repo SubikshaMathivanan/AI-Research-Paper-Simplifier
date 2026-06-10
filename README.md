@@ -38,4 +38,22 @@ AI_Research_Paper_Simplifier
 ├── services
 ├── utils
 └── requirements.txt
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Summary Generation
+
+![Summary](screenshots/summary.png)
+
+### Keyword Extraction
+
+![Keywords](screenshots/keywords.png)
+
+### Chat With Research Paper
+
+![Chat](screenshots/chat.png)
+
 ```
