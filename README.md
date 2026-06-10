@@ -38,22 +38,32 @@ AI_Research_Paper_Simplifier
 ├── services
 ├── utils
 └── requirements.txt
-## Screenshots
+### Screenshots
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Home%20Page.png)
 
-### Summary Generation
+### Summary
 
-![Summary](screenshots/summary.png)
+![Summary](screenshots/Summary.png)
 
-### Keyword Extraction
+### Keywords
 
-![Keywords](screenshots/keywords.png)
+![Keywords](screenshots/Keywords.png)
+
+### Viva Questions
+
+![Viva Questions](screenshots/Viva%20Questions.png)
+
+### Beginner Explanation
+
+![Beginner Explanation](screenshots/Beginner%20Explanation.png)
+
+### Difficulty Analysis
+
+![Difficulty Analysis](screenshots/Difficulty%20Analysis.png)
 
 ### Chat With Research Paper
 
-![Chat](screenshots/chat.png)
-
-```
+![Chat](screenshots/Chat.png)
