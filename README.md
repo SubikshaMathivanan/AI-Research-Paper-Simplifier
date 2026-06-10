@@ -38,9 +38,8 @@ AI_Research_Paper_Simplifier
 ├── services
 ├── utils
 └── requirements.txt
-![Home Page](https://raw.githubusercontent.com/SubikshaMathivanan/AI-Research-Paper-Simplifier/main/screenshots/Home%20Page.png)
 ## Screenshots
-
+![Home Page](https://raw.githubusercontent.com/SubikshaMathivanan/AI-Research-Paper-Simplifier/main/screenshots/Home%20Page.png)
 ### Home Page
 
 ![Home Page](screenshots/Home%20Page.png)
