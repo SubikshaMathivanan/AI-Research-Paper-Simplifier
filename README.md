@@ -38,7 +38,7 @@ AI_Research_Paper_Simplifier
 ├── services
 ├── utils
 └── requirements.txt
-### Screenshots
+## Screenshots
 
 ### Home Page
 
