@@ -38,32 +38,33 @@ AI_Research_Paper_Simplifier
 ├── services
 ├── utils
 └── requirements.txt
+
 ## Screenshots
-![Home Page](https://raw.githubusercontent.com/SubikshaMathivanan/AI-Research-Paper-Simplifier/main/screenshots/Home%20Page.png)
+
 ### Home Page
 
-![Home Page](screenshots/Home%20Page.png)
+<img src="https://raw.githubusercontent.com/SubikshaMathivanan/AI-Research-Paper-Simplifier/main/screenshots/Home%20Page.png">
 
 ### Summary
 
-![Summary](screenshots/Summary.png)
+<img src="https://raw.githubusercontent.com/SubikshaMathivanan/AI-Research-Paper-Simplifier/main/screenshots/Summary.png">
 
 ### Keywords
 
-![Keywords](screenshots/Keywords.png)
+<img src="https://raw.githubusercontent.com/SubikshaMathivanan/AI-Research-Paper-Simplifier/main/screenshots/Keywords.png">
 
 ### Viva Questions
 
-![Viva Questions](screenshots/Viva%20Questions.png)
+<img src="https://raw.githubusercontent.com/SubikshaMathivanan/AI-Research-Paper-Simplifier/main/screenshots/Viva%20Questions.png">
 
 ### Beginner Explanation
 
-![Beginner Explanation](screenshots/Beginner%20Explanation.png)
+<img src="https://raw.githubusercontent.com/SubikshaMathivanan/AI-Research-Paper-Simplifier/main/screenshots/Beginner%20Explanation.png">
 
 ### Difficulty Analysis
 
-![Difficulty Analysis](screenshots/Difficulty%20Analysis.png)
+<img src="https://raw.githubusercontent.com/SubikshaMathivanan/AI-Research-Paper-Simplifier/main/screenshots/Difficulty%20Analysis.png">
 
 ### Chat With Research Paper
 
-![Chat](screenshots/Chat.png)
+<img src="https://raw.githubusercontent.com/SubikshaMathivanan/AI-Research-Paper-Simplifier/main/screenshots/Chat.png">
