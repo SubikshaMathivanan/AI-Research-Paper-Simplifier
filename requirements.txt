@@ -1,0 +1,9 @@
+streamlit
+groq
+PyPDF2
+keybert
+sentence-transformers
+scikit-learn
+numpy
+torch
+python-dotenv
