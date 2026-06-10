@@ -30,6 +30,7 @@ streamlit run app.py
 
 ## Project Structure
 
+
 ```text
 AI_Research_Paper_Simplifier
 │
@@ -37,7 +38,10 @@ AI_Research_Paper_Simplifier
 ├── config.py
 ├── services
 ├── utils
+├── screenshots
+├── README.md
 └── requirements.txt
+```
 
 ## Screenshots
 
